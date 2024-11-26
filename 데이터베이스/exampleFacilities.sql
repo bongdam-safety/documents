@@ -89,6 +89,7 @@ INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VA
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (70, 37.2169116666667, 126.951248333333, '봉담중학교 사거리에 있는 방범 cctv', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (71, 37.217915, 126.951238333333, '해담은어린이집 사거리 cctv', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (72, 37.218565, 126.951528333333, '동문굿모닝힐 서쪽, 봉담호수공원과 접해있는 도로의 방범cctv', 1);
+INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (73, 37.21952319323768, 126.94989866972308, '봉담읍행정복지센터 봉담문화의집 앞에 있는 안심무인택배함', 4);
 
 
 
@@ -181,3 +182,5 @@ INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (69, 'https://f
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (70, 'https://file.ramblr.com/photo/1024x768/20241106/672b1165e9aab.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (71, 'https://file.ramblr.com/photo/1024x768/20241106/672b116774daf.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (72, 'https://file.ramblr.com/photo/1024x768/20241106/672b11691665c.jpg');
+INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (73, 'https://github.com/bongdam-safety/documents/blob/main/%EA%B8%B0%ED%83%80%EC%9E%90%EB%A3%8C/%EC%9D%8D%EC%82%AC%EB%AC%B4%EC%86%8C%20%EB%AC%B4%EC%9D%B8%ED%83%9D%EB%B0%B0%ED%95%A8%20%EC%82%AC%EC%A7%84/20241114_133923.jpg?raw=true');
+INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (73, 'https://github.com/bongdam-safety/documents/blob/main/%EA%B8%B0%ED%83%80%EC%9E%90%EB%A3%8C/%EC%9D%8D%EC%82%AC%EB%AC%B4%EC%86%8C%20%EB%AC%B4%EC%9D%B8%ED%83%9D%EB%B0%B0%ED%95%A8%20%EC%82%AC%EC%A7%84/20241114_133940.jpg?raw=true');
