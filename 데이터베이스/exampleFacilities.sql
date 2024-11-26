@@ -17,14 +17,14 @@ INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VA
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (9, 37.2162095711414, 126.970275520366, '어린이 물놀이터 안', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (10, 37.2165420766256, 126.971027643248, '와우정 앞', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (11, 37.2163341626157, 126.972121975217, '임광그대가 2단지 후문', 1);
-INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (12, 37.2156962339035, 126.97553137955, '위험구역 ', 1);
+
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (13, 37.2143272390402, 126.975677924819, '화성세무서 앞', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (14, 37.2155094938453, 126.97395473522, '임광 그대가 1단지 앞', 1);
 
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (15, 37.2172205260262, 126.975755303252, '와우로 119번길 아트빌 앞', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (16, 37.2172329285578, 126.976611010719, '와우 남촌 마을회관 앞', 1);
 
-INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (17, 37.2180847125772, 126.977641847711, '와우리 심석진 황소야 앞 터널', 1);
+
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (18, 37.2186193902897, 126.972620890781, '와우리 교회 앞', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (19, 37.2175924287984, 126.970283520927, '에듀시티 파라곤apt와 봉담지구대 사이 도로 ', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (20, 37.2197356973516, 126.970370773086, '봉담동화지구 도시개발구역', 1);
@@ -44,7 +44,6 @@ INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VA
 
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (33, 37.2185792574212, 126.976573049691, '와우리 원룸 지역 24-13 앞', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (34, 37.2191018991981, 126.975807885933, '범죄침입구역 경고문', 4);
-INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (35, 37.2192006541435, 126.975122262354, '와우리 원룸 지역 17-7 앞', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (36, 37.2172477688673, 126.975587332685, '와우리 원룸지역 39 앞', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (37, 37.2238483333333, 126.953408333333, '수영리691-1에 설치', 1);
 INSERT INTO facility (id, latitude, longitude, content, facility_category_id) VALUES (38, 37.2238483333333, 126.953408333333, ' 동화리438-17 전봇대에 설치', 2);
@@ -110,14 +109,12 @@ INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (8, 'https://fi
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (9, 'https://file.ramblr.com/photo/1024x768/20240818/66c161547a82b.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (10, 'https://file.ramblr.com/photo/1024x768/20240818/66c161560a11e.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (11, 'https://file.ramblr.com/photo/1024x768/20240818/66c161578ca5f.jpg');
-INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (12, 'https://file.ramblr.com/photo/1024x768/20240818/66c16159c8d7f.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (13, 'https://file.ramblr.com/photo/1024x768/20240818/66c1615c0e234.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (14, 'https://file.ramblr.com/photo/1024x768/20240818/66c1615dd7bc1.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (14, 'https://file.ramblr.com/photo/1024x768/20240818/66c1615f5188d.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (15, 'https://file.ramblr.com/photo/1024x768/20240818/66c16161361cc.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (16, 'https://file.ramblr.com/photo/1024x768/20240818/66c16162acafc.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (16, 'https://file.ramblr.com/photo/1024x768/20240818/66c16165e25af.jpg');
-INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (17, 'https://file.ramblr.com/photo/1024x768/20240818/66c16168571ba.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (18, 'https://file.ramblr.com/photo/1024x768/20240818/66c1616a1d445.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (19, 'https://file.ramblr.com/photo/1024x768/20240818/66c1616d2a109.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (20, 'https://file.ramblr.com/photo/1024x768/20240818/66c1616ec7f21.jpg');
@@ -137,7 +134,6 @@ INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (32, 'https://f
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (32, 'https://file.ramblr.com/photo/1024x768/20240818/66c1618d0580e.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (33, 'https://file.ramblr.com/photo/1024x768/20240818/66c16191aa9b4.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (34, 'https://file.ramblr.com/photo/1024x768/20240818/66c16193dc8a1.jpg');
-INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (35, 'https://file.ramblr.com/photo/1024x768/20240818/66c161978485c.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (36, 'https://file.ramblr.com/photo/1024x768/20240818/66c1619c3e07b.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (37, 'https://file.ramblr.com/photo/1024x768/20240813/66bb50948dac6.jpg');
 INSERT INTO facility_image_urls (facility_id, image_urls) VALUES (38, 'https://file.ramblr.com/photo/1024x768/20240813/66bb509609913.jpg');
